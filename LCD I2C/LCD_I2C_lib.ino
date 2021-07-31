@@ -1,6 +1,3 @@
-// hardware connections and code explanation can be found at :  https://danielalapat.hashnode.dev/interfacing-lcd-with-i2c
-// impliment LCD using I2C adaptor to display "CAR" using LiquidCrystal_I2C library
-
 #include <Wire.h>                  //library for I2C communications
 #include <LiquidCrystal_I2C.h>     //library for LCD communications
 
@@ -15,5 +12,4 @@ void setup()
 }
 
 void loop()
-{
-}
+{}
