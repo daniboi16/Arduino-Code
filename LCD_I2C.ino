@@ -1,6 +1,3 @@
-// hardware conections and code explanation can be found at : https://danielalapat.hashnode.dev/interfacing-lcd-with-i2c
-// to send "CAR" on the LCD using the I2C adaptor
-
 #include <Wire.h>
 void setup() {
       Wire.begin();                         // to send the start bit
