@@ -1,5 +1,3 @@
-//hardware connections and code explanation can be found at : https://danielalapat.hashnode.dev/tide-callender
-
 //including liabray for the RTC
 #include <Wire.h>
 #include <RTClib.h>
