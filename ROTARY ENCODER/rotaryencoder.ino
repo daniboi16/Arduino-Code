@@ -1,7 +1,3 @@
-// Hardware connections and code explanation can be found at : https://danielalapat.hashnode.dev/rotary-encoder
-// to impliemnt a volume knob with the Rotary encoder
-
-
 #define DT 1                //connect DT to digital pin 1
 #define CLK 0               //connect CLK to digital pin 0
 
