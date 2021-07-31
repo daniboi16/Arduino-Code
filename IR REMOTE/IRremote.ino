@@ -1,5 +1,3 @@
-//hardware connections and code explanation can be found at : https://danielalapat.hashnode.dev/ir-remote-2
-
 #define IRLed 3                                               //pin connected to the IR LED
 unsigned long input_code=0b00100000110111111101000000101111;  //this is the code for the input button of the remote
 unsigned long power_code=0b00100000110111110001000011101111;  //this is the code for the power button of the remote
