@@ -1,5 +1,3 @@
-//hardware connections and code explanation can be found at : https://danielalapat.hashnode.dev/ir-remote-1
-
 #include <IRremote.h>               // initalzing the remote library 
 
 #define onbut 2                     //defining on button as pin 2
